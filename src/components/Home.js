@@ -1,12 +1,17 @@
-import React from 'react'
-
-
-
-
+import React from 'react';
+import Notes from "./Notes";
 const Home = ()=>{
-return(
+      
+    return(
     <div>
-        This is Home
+        
+
+        <Notes />
+     
+
+
+        
+     
     </div>
 )
 }
